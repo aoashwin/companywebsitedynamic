@@ -150,6 +150,11 @@ Publish the website in the given URL.
 
 ![output](./static/img/contactus.png)
 
+## ADMIN PAGE:
+![output](./static/img/peopleadmin.png)
+
+![output](./static/img/productadmin.png)
+
 ## CODE VALIDATION REPORT:
 ![output](./static/img/validhome1.png)
 
