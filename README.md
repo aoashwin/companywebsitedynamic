@@ -1,4 +1,8 @@
 # Dynamic Website Design for a Manufacturing Company
+
+### Webpage URL: http://aoashwin.student.saveetha.in:8000/
+### git hub repo URL: https://github.com/aoashwin/companywebsitedynamic.git
+
 ## AIM:
 To design a dynamic website for a chip manufacturing company.
 
